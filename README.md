@@ -1,4 +1,4 @@
-# 🚀 2026年最新ChatGPT Plus、CodeX 代充教程和避坑完全指南
+# 🚀 2026年最新ChatGPT Plus / Pro、CodeX 代充教程和避坑完全指南
 
 ![Update](https://img.shields.io/badge/Update-2026_Latest-success) ![Platform](https://img.shields.io/badge/Platform-GitHub_Wiki-blue) ![License](https://img.shields.io/badge/License-MIT-green)
 
